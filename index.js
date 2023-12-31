@@ -7,7 +7,7 @@ const fs = require("fs");
 
 const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 const render = require("./src/page-template.js");
 
 
