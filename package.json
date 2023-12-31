@@ -1,0 +1,27 @@
+{
+  "name": "get-team-info",
+  "version": "1.0.0",
+  "description": "Application to set and get team info",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ag466"
+  },
+  "keywords": [
+    "html",
+    "inquirer",
+    "employees"
+  ],
+  "author": "Aiden G",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "jest": "^29.7.0"
+  }
+}
