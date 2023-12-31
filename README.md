@@ -22,8 +22,7 @@ A user must initially provide information about a Manager. Once information abou
 Once the user elects to end the program, the application will generate an HTML file in the output folder.  The HTML file will contain a card for each employee entered.  The cards will contain the employee's name, role, id, email, and a role specific property (office number for manager, github username for engineer, and school for intern).
 
 Example of the command line application running:
-
-![Alt text](image.png)
+![Alt text](Assets/cml-view.png)
 
 ## Tests
 
