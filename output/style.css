@@ -1,0 +1,14 @@
+#body{
+background-color: whitesmoke;
+font-family: monospace;
+color: black;
+}
+.jumbotron{
+    background-color: rgb(226, 222, 216);
+}
+.card{
+    padding: 5px;
+    margin: 20px;
+    background-color: rgb(226, 222, 216);
+}
+
