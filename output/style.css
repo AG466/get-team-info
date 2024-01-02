@@ -1,14 +1,12 @@
-#body{
-background-color: whitesmoke;
-font-family: monospace;
-color: black;
-}
-.jumbotron{
+.employee-card {
     background-color: rgb(226, 222, 216);
-}
-.card{
-    padding: 5px;
-    margin: 20px;
-    background-color: rgb(226, 222, 216);
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+    text-align: center;
+    margin: 5px;
 }
 
+body {
+    background-color: rgba(22, 120, 53, 0.874);
+}
